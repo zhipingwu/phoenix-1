@@ -18,8 +18,6 @@ import org.springframework.social.twitter.api.Twitter;
 import org.springframework.social.twitter.api.impl.TwitterTemplate;
 
 @Configuration
-@ComponentScan
-@EnableAutoConfiguration
 @SpringBootApplication
 public class HBaseApplication {
 
